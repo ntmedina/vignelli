@@ -1,3 +1,6 @@
-# Vignelli - Responsive mobile-first grid.
+# Vignelli
 
-Fluid, unbreakable &amp; pretty awesome that uses only HTML &amp; CSS. &lt;3
+-- Responsive mobile-first grid --
+
+Fluid, unbreakable, pretty awesome.
+Not a framework, uses only HTML &amp; CSS &lt;3
