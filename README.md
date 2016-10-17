@@ -1,6 +1,6 @@
 # Vignelli
 
--- Responsive mobile-first grid --
+Responsive grid system
 
-   Fluid, unbreakable, pretty awesome.
-   Not a framework, it uses only HTML &amp; CSS &lt;3
+Fluid, unbreakable, pretty awesome.
+Uses only HTML &amp; CSS. isnt a framework, so...take a look! &lt;3
