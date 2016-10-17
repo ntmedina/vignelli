@@ -5,8 +5,8 @@ html {
 body {
     font-family: monospace;
     padding: 0;
-    margin: 0
-    background: #ccc;
+    margin: 0;
+    background: #e9e9e9;
 }
 
 *,
@@ -25,7 +25,8 @@ body {
 .grid:after,
 .row:before,
 .row:after {
-    content: ' ';
+
+    content: "";
     display: table;
 }
 
@@ -34,7 +35,7 @@ body {
     clear: both;
 }
 
-[class*='col']{
+[class *= "col-"]{
     width: 100%;
     float: left;
     min-height: 1px;
@@ -42,8 +43,8 @@ body {
 
 .col{
     padding: 1em;
-    margin: 12px;
-    background: #e9e9e9;
+    margin: 8px;
+    background: white;
     color: #FF4A4A;
     text-align: center;
 }
@@ -55,7 +56,7 @@ body {
 .col-5  { width: 41.66667%; }
 .col-6  { width: 50%; }
 .col-7  { width: 58.33333%; }
-.col-8  { width: 66.66667%; }
+.col-8  { width: 66.66667%;}
 .col-9  { width: 75%; }
 .col-10 { width: 83.33333%; }
 .col-11 { width: 91.66667%; }
