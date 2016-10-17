@@ -17,7 +17,7 @@ body {
 
 .grid{
     width: 100%;
-    max-width: 1360px; /* Change the limit value if you need */
+    max-width: 1370px; /* Change the limit value if you need */
     margin: 0 auto;
 }
 
@@ -43,7 +43,7 @@ body {
 
 .col{
     padding: 1em;
-    margin: 8px;
+    margin: 16px;
     background: white;
     color: #FF4A4A;
     text-align: center;
